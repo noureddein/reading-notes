@@ -49,9 +49,9 @@
     * list.append(ele): add element to the end of list
     * list.insert(index,ele):  inserts the element at the given index, shifting elements to the right.
     * list.extend(list2) adds the elements in list2 to the end of the list.
-    * list.index(elem) -- searches for the given element from the start of the list and returns its index.
-    * ist.remove(elem) -- searches for the first instance of the given element and removes it.
-    * list.sort() -- sorts the list in place.
-    * list.reverse() -- reverses the list in place.
-    * list.pop(index) -- removes and returns the element at the given index.
+    * list.index(elem): searches for the given element from the start of the list and returns its index.
+    * ist.remove(elem): searches for the first instance of the given element and removes it.
+    * list.sort(): sorts the list in place.
+    * list.reverse(): reverses the list in place.
+    * list.pop(index): removes and returns the element at the given index.
   
