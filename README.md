@@ -10,7 +10,7 @@
 
 ### _Code 201_ - Foundations of Software Development
 
-[Reading Notes 201](./lvl-201/../README.md)
+[Reading Notes 201](./lvl-201/README.md)
 
 ### _Code 301_ - Intermediate Software Development
 
