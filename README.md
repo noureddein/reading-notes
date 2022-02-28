@@ -1,7 +1,7 @@
 # Welcome to my **Reading Notes**
 
 - Here you can find what I learnt during my learning journey of software development.
-- Each link below will take to the table of content of each level.
+- Each link below will take you to the table of content of each level.
 - Each table contain all topics I covered during my learning journey.
 
 ### _Code 102_ - Intro to Software Development
