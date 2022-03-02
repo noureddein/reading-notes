@@ -168,3 +168,10 @@
   - **except** is used to catch and handle the exception(s) that are encountered in the try clause.
   - **else** lets you code sections that should run only when no exceptions are encountered in the try clause.
   - **finally** enables you to execute sections of code that should always run, with or without any previously encountered exceptions.
+
+---
+### Source
+[Reading and Writing Files in Python](https://realpython.com/read-write-files-python/)
+[Exceptions in Python](https://realpython.com/python-exceptions/)
+
+[Go Back](./README.md)
