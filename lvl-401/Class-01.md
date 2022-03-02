@@ -110,4 +110,5 @@ quadratic_algo([4, 5, 6, 8])
 [rob-bell](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 [stackabuse](https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/)
 [solo learn](www.sololearn.com)
-
+---
+**[Go Back](./README.md)**

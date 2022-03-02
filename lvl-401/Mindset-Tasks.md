@@ -31,3 +31,7 @@
 
 ## Assessing Bias 
   - I think I have a good bias, and I do not need to improve it, I accept other, the culture, color, and gender that not matter for me. But everything has a limit.
+
+---
+
+**[Go Back](./README.md)**

@@ -54,4 +54,6 @@
     * list.sort(): sorts the list in place.
     * list.reverse(): reverses the list in place.
     * list.pop(index): removes and returns the element at the given index.
-  
+
+---
+**[Go Back](./README.md)**
