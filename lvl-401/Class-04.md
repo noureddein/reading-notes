@@ -1,10 +1,12 @@
-# Classes and Objects
+# Pytest fixture and Coverage & Recursive & Classes and objects
 
-## What is Object?
+## Classes and Objects
+
+### What is Object?
   - Objects are an encapsulation of variables and functions into a single entity.
   - Objects get their variables and functions from classes.
 
-## What is Class?
+### What is Class?
   - Class is a tempelate for creating objects
 
 ```
@@ -16,12 +18,12 @@
                 print(f"My name is {self.name} and I'm {self.age} years old.")
 ```
 
-## How to create an instance from object?
+### How to create an instance from object?
 
 ```
     my_object = My_class()
 ```
-## How to Access Object Variables?
+### How to Access Object Variables?
 ```
     print(my_object.name)
     # Output:
@@ -41,7 +43,7 @@
         object_3.age = 32
     ```
 
-## How to Access Object Functions?
+### How to Access Object Functions?
   - We can access object function by notation similar to variables
 ```
     my_object.function()
@@ -49,7 +51,7 @@
         My name is Nour and I'm 27 years old.
 ```
 
-## What is __init__() ?
+### What is __init__() ?
   - `__init__()` is a special function that is called when the class is being initiated, It's used for asigning values in a class.
 
 ```
@@ -72,9 +74,9 @@
 ```
 ---
 
-# Thinking Recursively in Python
+## Thinking Recursively in Python
 
-## Recursive Functions in Python
+### Recursive Functions in Python
   - **Recursive function** is a function defined in terms of itself via self-referential expressions. 
   - This mean the function will continuo call itself until met a to return a result.
   - All recursive function share a common structure:
@@ -82,7 +84,7 @@
     - Recursive case.
     - ![recursive img stack](./class-04-img/recursive.gif)
 
-## Maintaining State
+### Maintaining State
   - Each recursive call has its own execution context.
   - To maintain state during recursion:
     - Thread the state through each recursive call so that the current state is part of the current call’s execution context.
@@ -90,15 +92,15 @@
 
 ---
 
-# Python Testing with pytest: Fixtures and Coverage
+## Python Testing with pytest: Fixtures and Coverage
 
-## What is Fixtures?
+### What is Fixtures?
   - Fixtures are objects can be available for all my tests.
   - Those objects might contain data I want to share across tests.
   - To define fixture we can use decorator `@pytest.fixture`
   - If we pass `scope` as a parameter to `@pytest.fixture` it will execute function once and make it available for other tests if needed.
 
-## What is Pytest Coverage?
+### What is Pytest Coverage?
   - Is a tool for measuring code coverage of Python programs.
   - It monitors the program.
   - noting which parts of the code have been executed, then analyzes the source to identify code that could have been executed but was not.
