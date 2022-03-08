@@ -10,4 +10,5 @@
 | Class-01: Beginners Guide to Big O         | [Class-01](./Class-01.md)                  |
 | Class-02: Testing and Modules              | [Class-02](./Class-02.md)                  |
 | Class-03: FileIO & Exceptions              | [Class-03](./Class-03.md)                  |
-| Class-04: Pytest fixture and Coverage & Recursive & Classes and objects             | [Class-04](./Class-04.md)                  |
+| Class-04: Pytest fixture and Coverage & Recursive & Classes and objects      | [Class-04](./Class-04.md)                  |
+| Class-05: Linked Lists            | [Class-05](./Class-05.md)                  |
