@@ -114,8 +114,7 @@
   - Big-O can be discribed as:
     - How code slows as data grows.
     - How much time the code will take, if the data are double, triple, or 10x times as what are exist.
-  * Terminology:
-    * O(N)
+  * Terminology O(N):
     * **N**: how much of data.
     * **O**: order of.
     * **O(1)**: constant time
@@ -123,6 +122,7 @@
     * **O(N^2)**: quadratic time.
 ---
 ## Resources
-  1. s
+  1. [pythonforbeginners](https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python)
   2. [edureka](https://www.edureka.co/blog/risk-analysis-in-software-testing/#WhyuseRiskAnalysis?)
   3. [martinfowler](https://martinfowler.com/bliki/TestCoverage.html)
+  4. [Youtube](https://www.youtube.com/watch?v=Ee0HzlnIYWQ)
