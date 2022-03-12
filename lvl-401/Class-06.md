@@ -100,10 +100,29 @@
     - Cause
     - Likelihood
 
- 
+ --- 
 
+# Test Coverage (Code coverage)
+  
+## What is test coverage?
+  - Test coverage is a tool to finding untested parts of a codebase.
+  - 
 
+---
+
+# Big-O
+  - Big-O can be discribed as:
+    - How code slows as data grows.
+    - How much time the code will take, if the data are double, triple, or 10x times as what are exist.
+  * Terminology:
+    * O(N)
+    * **N**: how much of data.
+    * **O**: order of.
+    * **O(1)**: constant time
+    * **O(N)**: linear time.
+    * **O(N^2)**: quadratic time.
 ---
 ## Resources
   1. s
   2. [edureka](https://www.edureka.co/blog/risk-analysis-in-software-testing/#WhyuseRiskAnalysis?)
+  3. [martinfowler](https://martinfowler.com/bliki/TestCoverage.html)
