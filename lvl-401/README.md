@@ -12,4 +12,5 @@
 | Class-03: FileIO & Exceptions              | [Class-03](./Class-03.md)                  |
 | Class-04: Pytest fixture and Coverage & Recursive & Classes and objects      | [Class-04](./Class-04.md)                  |
 | Class-05: Linked Lists            | [Class-05](./Class-05.md)                  |
-| Class-06: Game of Greed 1            | [Class-06](./Class-06.md)                  |
+| Class-06: Game of Greed 1           | [Class-06](./Class-06.md)                  |
+| Class-06: Game of Greed 2           | [Class-06](./Class-07.md)                  |
