@@ -116,4 +116,12 @@
 
   - As you see in the example above, we decorated the **f2** and **add_values** functions with **f1** function.
   - If we invoke function `f2()`, we actually did not invoke it, we pass it to `f1` function as an argument, and the `f1` function return the `wrapper` as function block (not executed yet).
-  - The `f2()` statement will not execute the `f2` function, it actually execute the returned wrapper function
+  - The `f2()` statement will not execute the `f2` function, it actually execute the returned wrapper function.
+
+
+---
+
+## Recourses
+  1. [pythonforbeginners](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+  2. [realpython](https://realpython.com/primer-on-python-decorators/)
+  3. [w3schools](https://www.w3schools.com/python/python_lists_comprehension.asp)
