@@ -63,6 +63,8 @@
   - Operator Overloading for Comparing Accounts: `__eq__`, `__lt__`
     - We can use operators with normal variables, but we can not use them with instances, except if we defined it explicitly.
     - To use the operation methods we need a module called **functools**, and add a decorator above the class `@total_ordering`.
+
+
 ```
     from functools import total_ordering
 
