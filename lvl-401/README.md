@@ -16,3 +16,4 @@
 | Class-08: Game of Greed 3           | [Class-08](./Class-08.md)                  |
 | Class-09: Game of Greed 4           | [Class-09](./Class-09.md)                  |
 | Class-10: Stack and Queue Data structure           | [Class-10](./Class-10.md)                  |
+| Class-11: Data Analysis           | [Class-11](./Class-11.md)                  |
