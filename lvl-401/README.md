@@ -15,8 +15,9 @@
 | Class-07: Game of Greed 2           | [Class-07](./Class-07.md)                  |
 | Class-08: Game of Greed 3           | [Class-08](./Class-08.md)                  |
 | Class-09: Game of Greed 4           | [Class-09](./Class-09.md)                  |
-| Class-10: Stack and Queue Data structure           | [Class-10](./Class-10.md)                  |
+| Class-10: Stack and Queue DS           | [Class-10](./Class-10.md)                  |
 | Class-11: Data Analysis           | [Class-11](./Class-11.md)                  |
 | Class-12: Pandas           | [Class-12](./Class-12.md)                  |
 | Class-13: Linear Regressions           | [Class-13](./Class-13.md)                  |
 | Class-14: Matplot          | [Class-14](./Class-14.md)                  |
+| Class-14: Tree DS          | [Class-15](./Class-15.md)                  |
