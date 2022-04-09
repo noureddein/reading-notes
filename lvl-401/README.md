@@ -20,4 +20,5 @@
 | Class-12: Pandas           | [Class-12](./Class-12.md)                  |
 | Class-13: Linear Regressions           | [Class-13](./Class-13.md)                  |
 | Class-14: Matplot          | [Class-14](./Class-14.md)                  |
-| Class-14: Tree DS          | [Class-15](./Class-15.md)                  |
+| Class-15: Tree DS          | [Class-15](./Class-15.md)                  |
+| Class-16: Serverless          | [Class-16](./Class-16.md)                  |
