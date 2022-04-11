@@ -22,3 +22,4 @@
 | Class-14: Matplot          | [Class-14](./Class-14.md)                  |
 | Class-15: Tree DS          | [Class-15](./Class-15.md)                  |
 | Class-16: Serverless          | [Class-16](./Class-16.md)                  |
+| Class-17: Web Scraping          | [Class-17](./Class-17.md)                  |
