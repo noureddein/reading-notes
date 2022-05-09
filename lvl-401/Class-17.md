@@ -5,7 +5,7 @@
 
 
 ## How to use Web scraping?
-  1. Fiest, we need to import some libraries.
+  1. First, we need to import some libraries.
 ```
     import requests
     import urllib.request
@@ -74,7 +74,7 @@ for one_a_tag in soup.findAll('a'): #'a' tags are for links
      * When we scraping we are not using a web browser for visiting the website, we are using libraries.
      * These libraries can not run JavaScript codes, so the website check if the client (web browser) can run a block of JavaScript code or not, if it can't run it, it detect that we are scraping. 
 
-## What sre web scraping techniques?
+## What are web scraping techniques?
   1. Human copy-and-paste
   2. Text pattern matching
   3. HTTP programming
