@@ -56,5 +56,17 @@
   - Ex:
 ```python
     class Meta:
-    ordering = ['-my_field_name']
+        ordering = ['-my_field_name','title', '-pubdate']
 ```
+  - To control the ordering we should define the **ordering** attribute as a list, the sort will be as the following:
+    - `-my_field_name`: Names order will be alphabetically from A - Z
+    - `title`: Tile order will be alphabetically from A - Z
+    - `-pubdate`: publication date inside each title, from newest to oldest, because of the minus sign.
+
+--- 
+
+# The Django admin site
+## Overview
+  - Django have an automatic admin interface.
+  - Django reads metadata from models to provide a quick, model-centric interface to manage content on site.
+  - The admin is enabled in the default project template used by startproject.
