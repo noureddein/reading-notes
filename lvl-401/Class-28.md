@@ -88,7 +88,7 @@ help_text (as seen in the example above  - **):** Additional text that can be di
   10. To save the form into the database run the save method `data.save()`
 
 
-> **IMPORTANT**: if you use the *POST* method into form, you should validate this form by adding the **{% csrf_token %}** tag to the form.This tag will add a layer of security to your form.
+> **IMPORTANT**: if you use the *POST* method into form, you should validate this form by adding the **`{% csrf_token %}`** tag to the form.This tag will add a layer of security to your form.
 
 ---
 Resource: [MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Forms)
