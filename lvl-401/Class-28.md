@@ -27,7 +27,7 @@
     - When Django handle the request it fire up the function that related to the URL
     - If the URL not exist, Django will rerender the form with an error message.
 
-## HoW to create a from using Django
+## How to create a form using Django
   1. Create a new file in the app folder called form.py
   2. Import forms from the Django library
   3. Create a subclass from the `forms.Form`
