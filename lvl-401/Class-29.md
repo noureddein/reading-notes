@@ -97,7 +97,7 @@
 
 ```html
     <!-- templates/home.html -->
-    {% extends "base.html" %}
+    <!-- {% extends "base.html" %} -->
 
     {% block title %}Home{% endblock %}
 
