@@ -26,4 +26,5 @@
 | Class-26: Intro to Django        | [Class-26](./Class-26.md)                  |
 | Class-27: Django Models       | [Class-27](./Class-27.md)                  |
 | Class-28: Django CRUD and Forms     | [Class-28](./Class-28.md)                  |
+| Class-29: Django Custom User     | [Class-29](./Class-29.md)                  |
 
