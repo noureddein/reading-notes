@@ -97,12 +97,12 @@
 
 ```html
     <!-- templates/home.html -->
-    <!-- {% extends "base.html" %} -->
+    <!--  extends "base.html"  -->
 
-    {% block title %}Home{% endblock %}
+    <!-- { block title }Home{ endblock } -->
 
-    {% block content %}
-    {% if user.is_authenticated %}
+    { block content }
+    { if user.is_authenticated }
     Hi {{ user.username }}!
     <p><a href="{% url 'logout' %}">Log Out</a></p>
     {% else %}
