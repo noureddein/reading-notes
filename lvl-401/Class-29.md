@@ -85,12 +85,11 @@
     <html>
     <head>
     <meta charset="utf-8">
-    <title>{%block title%}Django Auth Tutorial{%endblock%}</title>
+    <title><!-- Add block title  --></title>
     </head>
     <body>
     <main>
-        {%block content%}
-        {%endblock%}
+        <!--Add block content -->
     </main>
     </body>
     </html>
