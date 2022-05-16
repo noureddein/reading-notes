@@ -184,6 +184,8 @@ urlpatterns = [
 ]
 ```
   - Final step, update the `view.py` with the following code:
+
+
 ```python
     # accounts/views.py
     from django.urls import reverse_lazy
