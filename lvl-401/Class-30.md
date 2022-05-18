@@ -18,7 +18,7 @@
 ## Hashing Structure
 
   - ### Hashing
-    - As we mentioned, the main job of hashing is turns the key into an integer number, When we do that we should me aware of couple of things:
+    - As we mentioned, the main job of hashing is turns the key into an integer number, When we do that we should be aware of acouple of things:
       - It’s very important that hash codes are deterministic: their output is determined only by their input.
       - Hash codes should never have randomness.
       - The same key should always produce the same hash code.
@@ -60,11 +60,11 @@ For example:
     - **How to handle collision**
       - Collision can be handled by changing the initial state of the buckets.
       - So, instead of starting all the buckets as **NULL** we can initialize a LinkedList in each one.
-      - Now, if we generated to equaled hash, the key/value pairs can be stored as a node in a linked list.
-      - So now, the term of bucket would be more clear.
+      - Now, if we generated two equaled hash key, the key/value pairs can be stored as a node in a linked list.
+      - So now, the term  **bucket** would be much cleaner.
       - Since different keys can lead to the same bucket it’s important to store the entire key/value pair in the bucket, not just the value.
   
-  - ### What hash maps to to store and read?
+  - ### How are hash maps stored and read?
     - **To store** hash maps do this:
       - accept a key
       - calculate the hash of the key
@@ -194,3 +194,4 @@ Hash table should have main methods:
   - [geeksforgeeks](https://www.geeksforgeeks.org/hashing-data-structure/)
   - [canvas course](https://canvas.instructure.com/courses/4333667/discussion_topics/14075587)
   - [Steve Grice Article](https://pagekeytech.com/blog/dsa/hash-table-python/)
+  - [My hash node article](https://explanations.hashnode.dev/hash-tables)
