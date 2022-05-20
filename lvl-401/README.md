@@ -27,5 +27,6 @@
 | Class-27: Django Models       | [Class-27](./Class-27.md)                  |
 | Class-28: Django CRUD and Forms     | [Class-28](./Class-28.md)                  |
 | Class-29: Django Custom User     | [Class-29](./Class-29.md)                  |
-| Class-29: Hash table     | [Class-30](./Class-30.md)                  |
+| Class-30: Hash table     | [Class-30](./Class-30.md)                  |
+| Class-31: Django REST Framework & Docker     | [Class-31](./Class-31.md)                  |
 
