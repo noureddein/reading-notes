@@ -29,4 +29,5 @@
 | Class-29: Django Custom User     | [Class-29](./Class-29.md)                  |
 | Class-30: Hash table     | [Class-30](./Class-30.md)                  |
 | Class-31: Django REST Framework & Docker     | [Class-31](./Class-31.md)                  |
+| Class-32: Permissions & Postgresql     | [Class-32](./Class-32.md)                  |
 
