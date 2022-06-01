@@ -30,5 +30,7 @@
 | Class-30: Hash table     | [Class-30](./Class-30.md)                  |
 | Class-31: Django REST Framework & Docker     | [Class-31](./Class-31.md)                  |
 | Class-32: Permissions & Postgresql     | [Class-32](./Class-32.md)                  |
-| Class-33: Authentication & Production Server     | [Class-33](./Class-33.md)                  |
+| Class-33: Authentication & Production Server     | [Class-33](./Class-33.md) |
+| Class-34: API Deployment     | [Class-34](./Class-34.md) |
+
 
