@@ -32,5 +32,7 @@
 | Class-32: Permissions & Postgresql     | [Class-32](./Class-32.md)                  |
 | Class-33: Authentication & Production Server     | [Class-33](./Class-33.md) |
 | Class-34: API Deployment     | [Class-34](./Class-34.md) |
+| Class-35: Graph DS     | [Class-35](./Class-35.md) |
+| Class-37:  React 1    | [Class-37](./Class-37.md) |
 
 

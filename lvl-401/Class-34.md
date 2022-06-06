@@ -228,7 +228,7 @@ Now let us talk about how these apps made, the figure below shows the life cycle
   - ### Access-Control-Allow-Credentials
     - The Access-Control-Allow-Credential response headers allows cookies (or other user credentials) to be include in cross-origin request.
     - Access-Control-Allow-Credentials allowed you to access an authenticated web page.
-    - Back to our example assume that domain-a.com want to access authenticated page in domain-b.com let's say account details page which only authenticated users can access, so in order for doain-a.com to be able to access domain-b.com both headers need to be configured in the domain-b.com application, so doamin-b.com  will have:
+    - Back to our example assume that domain-a.com want to access authenticated page in domain-b.com let's say account details page which only authenticated users can access, so in order for domain-a.com to be able to access domain-b.com both headers need to be configured in the domain-b.com application, so doamin-b.com  will have:
       - `Access-Control-Allow-Origin: domain-a.com`
       - `Access-Control-Allow-Credentials: true`
 ---
