@@ -34,5 +34,6 @@
 | Class-34: API Deployment     | [Class-34](./Class-34.md) |
 | Class-35: Graph DS     | [Class-35](./Class-35.md) |
 | Class-37:  React 1    | [Class-37](./Class-37.md) |
+| Class-38:  React 2    | [Class-38](./Class-38.md) |
 
 
